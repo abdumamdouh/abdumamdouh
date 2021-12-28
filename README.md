@@ -25,7 +25,7 @@
 ### Tech & Tools Preference
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C++](https://img.shields.io/badge/-c++-black?style=flat-square&logo=c++)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=C++)
 ![C](https://img.shields.io/badge/-c-black?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -43,12 +43,8 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
-![Gitlab](http://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=github)
+![Gitlab](http://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code)
-
-### Other Languages I know
-
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white">
 
 ---
 
