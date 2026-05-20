@@ -6,7 +6,7 @@ Frontend Team Lead | Senior Software Engineer | React / Next.js / React Native
 
 ---
 
-- 🔭 I’m currently working as a **Frontend Team Lead**, leading developers and building scalable prop-tech and white-label products.
+- 🔭 I’m currently working as a **Frontend Team Lead**, leading developers and building scalable web and mobile products.
 - 🚀 I have experience building and refactoring **web, mobile, and desktop applications** using React, Next.js, React Native, Angular, AngularJS, Electron.js, and Node.js.
 - 🏗️ I focus on **frontend architecture, performance optimization, reusable UI systems, scalability, and legacy system modernization**.
 - 👨‍💻 I have led and contributed to products across **real estate, e-learning, healthcare, government portals, marketplaces, and mobile apps**.
@@ -74,12 +74,6 @@ Frontend Team Lead | Senior Software Engineer | React / Next.js / React Native
 - Refactored legacy applications with focus on performance, maintainability, and scalability.
 - Built e-learning platforms, real-estate marketplaces, healthcare dashboards, government portals, and mobile apps.
 - Contributed to open-source projects through the MLH Fellowship using React.js, Ruby on Rails, and Node.js CLI tools.
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdumamdouh&show_icons=true&hide_border=true)
 
 ---
 
